@@ -5,5 +5,5 @@ Gans is an E-scooter provider and they have recruited me as a Data Engineer to c
 
 With that in mind my duties were to gather demographic data of the major airline hubs, analyse the weather forecast, collect flight details and make a database. Then this database would be exported to AWS RDS instance and with the help of Lambda Functions, queries can be modelled and automated.
 
-The findings and essence of this project is distilled into a report in pdf format which could be found in this repository.
+The findings and essence of this project is distilled into a report in pdf format which could be found in this repository. Along with report, the jupiter notebook with the python codes are also included.
 
